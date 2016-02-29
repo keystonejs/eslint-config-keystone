@@ -1,0 +1,29 @@
+{
+  "name": "eslint-config-keystone",
+  "version": "0.0.0",
+  "description": "Shareable ESLint Config for Keystone's Coding Standards",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests yet... contribute some?\""
+  },
+  "peerDependencies": {
+    "eslint": "^1.10.0",
+    "eslint-plugin-react": "^3.16.0",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keystonejs/eslint-config-keystone.git"
+  },
+  "keywords": [
+    "eslint",
+    "keystone",
+    "keystonejs",
+    "javascript"
+  ],
+  "author": "Jed Watson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/keystonejs/eslint-config-keystone/issues"
+  },
+  "homepage": "https://github.com/keystonejs/eslint-config-keystone#readme"
+}
