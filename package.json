@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-keystone",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Shareable ESLint Config for Keystone's Coding Standards",
   "main": "index.js",
   "scripts": {
