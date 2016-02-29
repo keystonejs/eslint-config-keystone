@@ -25,5 +25,6 @@
   "bugs": {
     "url": "https://github.com/keystonejs/eslint-config-keystone/issues"
   },
-  "homepage": "https://github.com/keystonejs/eslint-config-keystone#readme"
+  "homepage": "https://github.com/keystonejs/eslint-config-keystone#readme",
+  "devDependencies": {}
 }
