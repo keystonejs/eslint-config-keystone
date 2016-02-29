@@ -8,7 +8,7 @@
   },
   "peerDependencies": {
     "eslint": "^1.10.0",
-    "eslint-plugin-react": "^3.16.0",
+    "eslint-plugin-react": "^3.16.0"
   },
   "repository": {
     "type": "git",
