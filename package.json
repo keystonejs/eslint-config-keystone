@@ -7,8 +7,8 @@
     "test": "echo \"No tests yet... contribute some?\""
   },
   "peerDependencies": {
-    "eslint": "^1.10.0",
-    "eslint-plugin-react": "^3.16.0"
+    "eslint": "^2.5.1",
+    "eslint-plugin-react": "^4.2.3"
   },
   "repository": {
     "type": "git",
