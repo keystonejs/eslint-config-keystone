@@ -16,7 +16,6 @@
     "react"
   ],
   "rules": {
-    "one-var": [2, { "initialized": "never" }],
     "accessor-pairs": 2,
     "array-bracket-spacing": 2,
     "arrow-spacing": [2, { "before": true, "after": true }],
@@ -42,8 +41,8 @@
     "no-array-constructor": 2,
     "no-caller": 2,
     "no-class-assign": 2,
-    "no-const-assign": 2,
     "no-cond-assign": 2,
+    "no-const-assign": 2,
     "no-control-regex": 2,
     "no-debugger": 2,
     "no-delete-var": 2,
@@ -103,6 +102,7 @@
     "no-useless-call": 2,
     "no-with": 2,
     "object-curly-spacing": [2, "always"],
+    "one-var": [2, { "initialized": "never" }],
     "operator-linebreak": [2, "before"],
     "quote-props": [2, "consistent-as-needed"],
     "quotes": [2, "single", "avoid-escape"],
@@ -128,15 +128,15 @@
     "react/wrap-multilines": 2,
     "semi-spacing": 2,
     "semi": 2,
+    "space-before-blocks": 2,
+    "space-before-function-paren": 2,
+    "space-in-parens": 2,
+    "space-infix-ops": 2,
+    "space-unary-ops": 2,
+    "spaced-comment": [2, "always", { "exceptions": ["!"] }],
     "use-isnan": 2,
     "valid-typeof": 2,
     "wrap-iife": [2, "any"],
-    "space-before-blocks": 2,
-    "space-before-function-paren": 2,
-    "space-infix-ops": 2,
-    "space-in-parens": 2,
-    "space-unary-ops": 2,
-    "spaced-comment": [2, "always", { "exceptions": ["!"] }],
     "yoda": 2
   }
 }
