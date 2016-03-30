@@ -99,6 +99,7 @@
     "no-undef": 2,
     "no-unexpected-multiline": 2,
     "no-unreachable": 2,
+    "no-unused-vars": [2, { "args": "none" }],
     "no-useless-call": 2,
     "no-with": 2,
     "object-curly-spacing": [2, "always"],
