@@ -20,6 +20,12 @@ Then add an `.eslintrc` file to your project that extends the `keystone` config:
 }
 ```
 
+You can do this from the OS X terminal by running this line in your project folder:
+
+```
+echo -e '{\n  "extends": [\n    "keystone"\n  ]\n}' >> .eslintrc
+```
+
 Additional configuration can be added to `.eslintrc` that extends or overrides the keystone defaults.
 
 ## License
