@@ -106,7 +106,7 @@
     "one-var": [2, { "initialized": "never" }],
     "operator-linebreak": [2, "before"],
     "quote-props": [2, "consistent-as-needed"],
-    "quotes": [2, "single", "avoid-escape"],
+    "quotes": [2, "single", { "avoidEscape": true, "allowTemplateLiterals": true }],
     "react/jsx-boolean-value": 2,
     "react/jsx-curly-spacing": 2,
     "react/jsx-equals-spacing": 2,
