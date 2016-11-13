@@ -4,7 +4,11 @@
   "description": "Shareable ESLint Config for Keystone's Coding Standards",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"No tests yet... contribute some?\""
+    "lint": "eslint .",
+    "test": "echo \"No tests yet... contribute some?\"" 
+  },
+  "devDependencies": {
+    "eslint": "^3.10.0"
   },
   "peerDependencies": {
     "eslint": "^3.10.0"
@@ -24,6 +28,5 @@
   "bugs": {
     "url": "https://github.com/keystonejs/eslint-config-keystone/issues"
   },
-  "homepage": "https://github.com/keystonejs/eslint-config-keystone#readme",
-  "devDependencies": {}
+  "homepage": "https://github.com/keystonejs/eslint-config-keystone#readme"
 }
