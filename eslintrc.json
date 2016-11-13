@@ -12,9 +12,6 @@
     "es6": true,
     "node": true
   },
-  "plugins": [
-    "react"
-  ],
   "rules": {
     "accessor-pairs": 2,
     "array-bracket-spacing": 2,
