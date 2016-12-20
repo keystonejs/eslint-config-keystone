@@ -1,3 +1,5 @@
+var isWin = /^win/.test(process.platform);
+
 module.exports = {
 	parserOptions: {
 		ecmaFeatures: {
@@ -34,7 +36,7 @@ module.exports = {
 		'jsx-quotes': ['error', 'prefer-double'],
 		'key-spacing': 'error',
 		'keyword-spacing': 'error',
-		'linebreak-style': 'error',
+		'linebreak-style': ["error", isWin ? "windows" : "unix"],
 		'new-parens': 'error',
 		'no-array-constructor': 'error',
 		'no-caller': 'error',
