@@ -30,7 +30,7 @@ module.exports = {
 		'func-call-spacing': 'error',
 		'generator-star-spacing': ['error', { before: true, after: true }],
 		'guard-for-in': 1,
-		'indent': ['error', 'tab', { SwitchCase: 1 }],
+		'indent': ['error', 2, { SwitchCase: 1 }],
 		'jsx-quotes': ['error', 'prefer-double'],
 		'key-spacing': 'error',
 		'keyword-spacing': 'error',
