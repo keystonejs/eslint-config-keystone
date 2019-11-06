@@ -8,10 +8,10 @@
     "test": "echo \"No tests yet... contribute some?\"" 
   },
   "devDependencies": {
-    "eslint": "^3.10.0"
+    "eslint": "^6.6.0"
   },
   "peerDependencies": {
-    "eslint": "^3.10.0"
+    "eslint": "^6.6.0"
   },
   "repository": {
     "type": "git",
